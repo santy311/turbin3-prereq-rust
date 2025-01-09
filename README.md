@@ -53,7 +53,7 @@ https://explorer.solana.com/tx/5T2HuVXppcCECfbK4GJUAWkwPoeERJQfUSRRWJ8R6pid9mMbZ
 
 ### 4. Empty devnet wallet into Turbin3 wallet
 
-Drain the wallet for from created account to Turbin3 Wallet
+Drain the SOL from created wallet to Turbin3 Wallet
 
 ```
 $cargo test empty_wallet -- --nocapture
