@@ -1,3 +1,4 @@
 /target
 Turbin3-wallet.json
-devnet-wallet.json
+dev-wallet.json
+.gitignore
