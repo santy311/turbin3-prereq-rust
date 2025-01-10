@@ -79,7 +79,7 @@ $cargo test complete_prereq -- --nocapture
 
 running 1 test
 Success! Check out your TX here:
-https://explorer.solana.com/tx/2jozQLNe8cVNsEF5CkcN2mMkymzg7786gK7NeYXGAjnytbpxT5ssyygCwkKpY2ZyRxpdCH6MstcET4Cq562JHVRt?cluster=devnet
+https://explorer.solana.com/tx/5bTiemfUWWJPPzvF28DLEWN5taH6rBhez1fNUpdUnQgQtE87kZqp893udzCf1L9nFcRSPQtEaFuvuZoPtqBNF6Ei?cluster=devnet
 ```
 
-[explorer link](https://explorer.solana.com/tx/2jozQLNe8cVNsEF5CkcN2mMkymzg7786gK7NeYXGAjnytbpxT5ssyygCwkKpY2ZyRxpdCH6MstcET4Cq562JHVRt?cluster=devnet)
+[explorer link](https://explorer.solana.com/tx/5bTiemfUWWJPPzvF28DLEWN5taH6rBhez1fNUpdUnQgQtE87kZqp893udzCf1L9nFcRSPQtEaFuvuZoPtqBNF6Ei?cluster=devnet)

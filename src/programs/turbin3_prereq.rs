@@ -3,7 +3,7 @@ idlgen!({
   "version": "0.1.0",
   "name": "turbin3_prereq",
   "metadata": {
-    "address": "HC2oqz2p6DEWfrahenqdq2moUcga9c9biqRBcdK3XKU1"
+    "address": "ADcaide4vBtKuyZQqdU689YqEGZMCmS4tL35bdTv9wJa" // replaced with new address
   },
   "instructions": [
     {
@@ -61,7 +61,7 @@ idlgen!({
   ],
   "accounts": [
     {
-      "name": "PrereqAccount",
+      "name": "SolanaCohort5Account",
       "type": {
         "kind": "struct",
         "fields": [
